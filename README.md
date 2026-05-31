@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate mobile and software developer wit
 - 💬 Ask me about iOS Native development, Flutter, mobile app architecture, and best practices
 - 💬 Feel free to brainstorm with me over tech, algorithms, and creative ideas
 - 📫 How to reach me: Connect with me on GitHub or through my profile
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building beautiful and performant mobile applications!
 
 **Professional Experience:**
