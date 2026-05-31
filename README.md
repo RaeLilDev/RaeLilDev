@@ -42,9 +42,6 @@ Welcome to my GitHub profile! I'm a passionate mobile and software developer wit
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 
-**My GitHub Stats:**
 
-![Ye Lynn Htet's Github Stats](https://github-readme-stats.vercel.app/api?username=RaeLilDev&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaeLilDev&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaeLilDev.RaeLilDev)
